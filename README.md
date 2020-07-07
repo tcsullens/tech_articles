@@ -8,3 +8,5 @@ https://engineering.linkedin.com/distributed-systems/log-what-every-software-eng
 https://github.blog/2016-08-17-context-aware-mysql-pools-via-haproxy/
 
 https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html
+
+https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-support-engineer-solves-a-tough-dns-case
