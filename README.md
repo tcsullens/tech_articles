@@ -10,3 +10,7 @@ https://github.blog/2016-08-17-context-aware-mysql-pools-via-haproxy/
 https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html
 
 https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-support-engineer-solves-a-tough-dns-case
+
+https://www.industrialempathy.com/posts/design-docs-at-google/
+
+https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/
