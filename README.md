@@ -14,3 +14,5 @@ https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-support-en
 https://www.industrialempathy.com/posts/design-docs-at-google/
 
 https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/
+
+https://slack.engineering/how-big-technical-changes-happen-at-slack/
