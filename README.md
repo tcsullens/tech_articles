@@ -16,3 +16,5 @@ https://www.industrialempathy.com/posts/design-docs-at-google/
 https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/
 
 https://slack.engineering/how-big-technical-changes-happen-at-slack/
+
+https://slack.engineering/building-the-next-evolution-of-cloud-networks-at-slack/
